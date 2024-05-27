@@ -1,0 +1,14 @@
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\bin\Debug\net8.0\Lab4Factory.exe
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\bin\Debug\net8.0\Lab4Factory.deps.json
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\bin\Debug\net8.0\Lab4Factory.runtimeconfig.json
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\bin\Debug\net8.0\Lab4Factory.dll
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\bin\Debug\net8.0\Lab4Factory.pdb
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.AssemblyInfoInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.AssemblyInfo.cs
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.csproj.CoreCompileInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.dll
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\refint\Lab4Factory.dll
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.pdb
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\Lab4Factory.genruntimeconfig.cache
+D:\ОА\Патерни проектування\Patterns\Lab4Factory\obj\Debug\net8.0\ref\Lab4Factory.dll

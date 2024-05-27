@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab4</id>
+    <version>1.0.0</version>
+    <authors>Lab4</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ОА\Патерни проектування\Patterns\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json" target="lib\net8.0\Lab4.runtimeconfig.json" />
+    <file src="D:\ОА\Патерни проектування\Patterns\Lab4\bin\Debug\net8.0\Lab4.dll" target="lib\net8.0\Lab4.dll" />
+  </files>
+</package>
